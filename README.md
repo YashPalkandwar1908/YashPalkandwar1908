@@ -1,50 +1,89 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<h1 align="center">Hi there, I'm  <a href="https://yourwebsite.com">Yash Palkandwar</a><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/> </h1>
+<h3 align="center">A Fullstack Developer</h3>
 
-<p align="left">My name is Yash Palkandwar and I'm a Fullstack Developer.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning Full-Stack Development<br>📫 How to reach me ypalkandwar@gmail.com</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashPalkandwar1908&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashPalkandwar1908&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/yashpalkandwar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<!-- Connect with me Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ypalkandwar@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Yash_Palkandwar" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
+  </a>
+</p>
+
+
+
+<!---Profile Views--->
+![ProfileViews](https://komarev.com/ghpvc/?username=YashPalkandwar&label=Profile%20views&color=0e75b6&style=flat)
+
+--------------------------------------------
+
+👨🏻‍💻 **About Me** ✨ Fullstack Intern at algin Infotech <br>
+⚡ Check my ✨ [Website](#) or 🌱 [Linktree](#)<br>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yashpalkandwar/)<br>
+💬 Ask me about: Open Source Contribution | Flutter | Figma | Python | UI<br>
+
+--------------------------------------------
+
+## 🚀 Skills:
+
+### 🔥 Languages:
+<p>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" height="50"/>
+</p>
+
+### ⛓️ Libraries & Frameworks:
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="50" height="50"/>
+</p>
+
+### 🧵 Databases:
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50"/>
+</p>
+
+### ⚡ Tools & Technologies:
+<p>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50"/>
+</p>
+
+--------------------------------------------
+
+## 📈 Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashPalkandwar1908&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="450" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPalkandwar1908&theme=monokai&show_icons=true&hide_border=true&layout=compact" width="450" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=YashPalkandwar1908&theme=monokai&hide_border=true" width="450" height="220" alt="GitHub Streak"/>
 </div>
 
-###
+
+
+ 
+ 
