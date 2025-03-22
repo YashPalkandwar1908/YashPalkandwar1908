@@ -25,9 +25,8 @@
 --------------------------------------------
 
 👨🏻‍💻 **About Me** ✨ Fullstack Intern at algin Infotech <br>
-⚡ Check my ✨ [Website](#) or 🌱 [Linktree](#)<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yashpalkandwar/)<br>
-💬 Ask me about: Open Source Contribution | Flutter | Figma | Python | UI<br>
+💬 Ask me about: FullStack Developement | Python | UI<br>
 
 --------------------------------------------
 
