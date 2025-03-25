@@ -4,7 +4,7 @@
 
 <!-- Connect with me Socials -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/yashpalkandwar" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
