@@ -1,3 +1,9 @@
+<!--- Banner Yash Palkandwar --->
+<div id="header" align="center">
+  <img src="./Yash Palkandwar .png"/>
+</div>
+
+
 
 <h1 align="center">Hi there, I'm  <a href="https://yourwebsite.com">Yash Palkandwar</a><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/> </h1>
 <h3 align="center">A Fullstack Developer</h3>
@@ -77,11 +83,10 @@
 ## 📈 Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashPalkandwar1908&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="450" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPalkandwar1908&theme=monokai&show_icons=true&hide_border=true&layout=compact" width="450" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=YashPalkandwar1908&theme=monokai&hide_border=true" width="450" height="220" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashPalkandwar1908&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="450" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPalkandwar1908&theme=monokai&show_icons=true&hide_border=true&layout=compact" width="450" height="200" />
+  <img src="https://streak-stats.demolab.com?user=YashPalkandwar1908&theme=monokai&hide_border=true" width="450" height="200" alt="GitHub Streak" />
 </div>
-
 
 
  
