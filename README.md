@@ -71,9 +71,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashPalkandwar1908&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="450" />
+ 
   <img src="https://streak-stats.demolab.com?user=YashPalkandwar1908&theme=monokai&hide_border=true" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPalkandwar1908&theme=monokai&layout=compact&hide_border=true" width="450" />
+  
   
 </div>
 
