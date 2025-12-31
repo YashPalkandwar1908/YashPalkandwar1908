@@ -1,6 +1,6 @@
 <!--- Banner --->
 <div align="center">
-  <img src="Yash Palkandwar .png" alt="Yash Palkandwar Banner"/>
+  <img src="logo.png" alt="Yash Palkandwar Banner"/>
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://www.salesforce.com/trailblazer/yashpalkandwar">Yash Palkandwar</a> 👋</h1>
