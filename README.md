@@ -35,15 +35,6 @@
 
 ---
 
-### 🔧 Salesforce Projects
-- 🔹 **IT Ticket Management System (Admin + Apex)**
-  - Custom Case Object, Automation Rules, SLA Workflows, and Triggers
-
-- 🔹 **Trailhead Mini Projects**
-  - Hands-on exercises and modules completed [on Trailhead](https://www.salesforce.com/trailblazer/yashpalkandwar)
-
----
-
 ### 💼 Technical Skills
 
 #### 🧩 Salesforce
